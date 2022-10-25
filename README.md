@@ -1,16 +1,14 @@
 ### Hi there 👋
 
-<!--
-**Rooki1e/Rooki1e** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="right" src=" https://github-readme-stats.vercel.app/api?username=Rooki1e&show_icons=true&theme=dracula">
 
-Here are some ideas to get you started:
+I am Shuangcheng Yang(杨双成)，a chinese boy from Jiangxi. I also use name Cherish. on Internet. Hoping this place can improve my coding ability.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+- 🔭 I’m currently working on what I passionate about
+- 🌱 I’m currently learning NLP/bioformatics
+- 💬 You can talk with me about some interesting games
+- 📫 You can contact with me [@Cherish(gmail)](mailto:Cher1shyang12138@gmail.com) or [@Cherish(QQmail)](mailto:201151237@qq.com)
+- 💥 Fun fact: EDG big fan
+- 😄 have a good day!
+
